@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "category": {
+    "id": 123,
+    "name": "string"
+  },
+  "name": "dragon",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 123,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
