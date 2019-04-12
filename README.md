@@ -19,8 +19,5 @@ Run command "mvn clean test"
 Reports are in folder target/surefire-reports
 Also you can use this reports for Allure
 
-Actual time spent - 1 hour.
-This project don't have any architecture, just a simple smoke test suite.
-But let me know, if you want to see encapsulate methods.
-I left everything as it is, so that you would not have to waste time on sorting abstractions=)
+
 
