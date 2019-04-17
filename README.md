@@ -1,5 +1,6 @@
 # test_petshop
 
+rest api tests for https://petstore.swagger.io/
 
 
 Test run via command line:
