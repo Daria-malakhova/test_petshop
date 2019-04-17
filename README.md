@@ -1,6 +1,6 @@
 # test_petshop
 
-test assigment
+
 
 Test run via command line:
 
